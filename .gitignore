@@ -1,0 +1,8 @@
+# JetBrains
+/.idea
+
+# python
+/*/__pycache__/
+
+# app
+lab-completion.sh
